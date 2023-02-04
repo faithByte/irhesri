@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO
 
 <!--
 **irhesri/irhesri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/irhesri" alt="irhesri's 42 stats" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irhesri&theme=ayu-mirage)](https://github.com/irhesri/github-readme-stats)
+
+<hr/>
+
+[![irhesri's 42 stats](https://badge.mediaplus.ma/greenbinary/irhesri)](https://github.com/oakoudad/badge42)
+
+
+
+
